@@ -1,5 +1,7 @@
 # AI-POWERED-LEARNING-APP_-Pixel-pirates
 1. Run the program in "Project" Directory, "AI-POWERED-LEARNING-APP_-Pixel Pirates".
+
+
 2.For going back in this application The button "BACK" is provided and for Certain Other file you can use "q"-key.
 
 3. 
